@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\B1081\Desktop\Data Stucture\Calculator\main.cpp(43,13): warning C4101: 'result': unreferenced local variable
-C:\Users\B1081\Desktop\Data Stucture\Calculator\main.cpp(44,15): warning C4101: 'postfix': unreferenced local variable
-C:\Users\B1081\Desktop\Data Stucture\Calculator\main.cpp(181): warning C4172: returning address of local variable or temporary: postfix
-  Calculator.vcxproj -> C:\Users\B1081\Desktop\Data Stucture\Calculator\Debug\Calculator.exe
