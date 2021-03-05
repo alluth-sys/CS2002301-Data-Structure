@@ -1,5 +1,5 @@
 ## CS2002301 Data Structure
-**LANG:C++**<br/>
+**LANG: C++**<br/>
 **Problems:**<br/>
   1. Delete strictly increasing sequence<br/>
   2. 2-3 Tree<br/>
