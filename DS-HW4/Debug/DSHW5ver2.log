@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\B1081\source\repos\DSHW5ver2\Source.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\B1081\source\repos\DSHW5ver2\Source.cpp(49,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\B1081\source\repos\DSHW5ver2\Source.cpp(50,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\B1081\source\repos\DSHW5ver2\Source.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\B1081\source\repos\DSHW5ver2\Source.cpp(75,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\B1081\source\repos\DSHW5ver2\Source.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\B1081\source\repos\DSHW5ver2\Source.cpp(114,20): warning C4018: '<': signed/unsigned mismatch
+  DSHW5ver2.vcxproj -> C:\Users\B1081\source\repos\DSHW5ver2\Debug\DSHW5ver2.exe
