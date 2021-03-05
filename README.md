@@ -1,11 +1,11 @@
 ## CS2002301 Data Structure
-**LANG:C++**
-**Problems:**
-  1.Delete strictly increasing sequence
-  2.2-3 Tree
-  3.Thanos Finger Snap
-  4.Priority queue using Binary Heap
-  5.String Quick Sort
-  6.Dijkstra
-  7.Kruskal
-  8.Word Hashing
+**LANG:C++**<br/>
+**Problems:**<br/>
+  1. Delete strictly increasing sequence<br/>
+  2. 2-3 Tree<br/>
+  3. Thanos Finger Snap<br/>
+  4. Priority queue using Binary Heap<br/>
+  5. String Quick Sort<br/>
+  6. Dijkstra<br/>
+  7. Kruskal<br/>
+  8. Word Hashing<br/>
